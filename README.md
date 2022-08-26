@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahulmall
-- 👀 I’m interested in React, JavaScript & Fron-End Web Development
+- 👀 I’m interested in React, JavaScript & Front-End Web Development
 - 🌱 I’m currently learning how to build real projects using React
 - 💞️ I’m looking to collaborate on React & JavaScript
 - 📫 How to reach me 
