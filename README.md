@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
  
  <h3>Connect with me</h3>
-<a href="https://www.linkedin.com/in/rahulrameshmall?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFcTNQxtqTdiWcUVdeR4DSA%3D%3D" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+<a href="https://www.linkedin.com/in/rahulrameshmall?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFcTNQxtqTdiWcUVdeR4DSA%3D%3D" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
 
 
