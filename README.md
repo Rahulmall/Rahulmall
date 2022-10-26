@@ -1,4 +1,7 @@
-- <h1> Hi, 👋 I’m @Rahulmall</h1>
+- <h1> Hi, 👋 I’m @Rahulmall</h1> <br/>
+
+<h4> An aspiring Web Developer from India. I got the itch to get my hands dirty in coding ever since I began my career as a Technical Recruiter. Spent the last 1 year learning Web Development. Looking to get my foot in the door into the world of Web Development.<h4/>
+
 - 👀 I’m interested in React, JavaScript & Front-End Web Development
 - 🌱 I’m currently building responsive modern UI/UX web pages using React 
 - 💞️ I’m looking to collaborate on React & JavaScript
