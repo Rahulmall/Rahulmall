@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahulmall
+- <h1> Hi, 👋 I’m @Rahulmall</h1>
 - 👀 I’m interested in React, JavaScript & Front-End Web Development
 - 🌱 I’m currently building responsive modern UI/UX web pages using React 
 - 💞️ I’m looking to collaborate on React & JavaScript
