@@ -1,8 +1,10 @@
  <h1> Hi, 👋 I’m @Rahulmall</h1> <br/>
  
- <h4> An aspiring web developer from India. My gig as an IT Recruiter motivated me to get my hands dirty. I developed a knack for web development. 
+ <h4> An aspiring web developer from India. 
+My gig as an IT Recruiter motivated me to get my hands dirty. I developed a knack for web development. 
 Started my journey by strengthening my fundamentals in HTML5, CSS3 & JavaScript before moving on to create responsive modern UI/UX websites using React. 
-Also learned how to use APIs and fetch data from various endpoints using Redux Toolkit and display that data in web pages.Looking to get my foot in the door into the world of Web Development.<h4/>
+Also learned how to use APIs and fetch data from various endpoints using Redux Toolkit and display that data in web pages.
+Looking to get my foot in the door into the world of Web Development.<h4/>
  
 - 👀 I’m interested in React, JavaScript & Front-End Web Development
 - 🌱 I’m currently building responsive modern UI/UX web pages using React 
