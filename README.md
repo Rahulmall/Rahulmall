@@ -9,7 +9,7 @@ Looking to get my foot in the door into the world of Web Development.<h4/>
 - 👀 I’m interested in React, JavaScript & Front-End Web Development
 - 🌱 I’m currently building responsive modern UI/UX web pages using React 
 - 💞️ I’m looking to collaborate on React & JavaScript
-- 📫 How to reach me rahulmall862@gmail.com
+- 📫 How to reach me rahulmall862@gmail.com; https://rahulmallportfolio.netlify.app/
 
 <h3>Languages and Tools:<h3/> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
