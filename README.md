@@ -5,16 +5,16 @@
 I am highly skilled in leveraging advanced sourcing techniques, data-driven insights, and employer branding strategies to attract, engage, and onboard the best candidates. Whether it's finding niche IT professionals or scaling teams for large projects, I bring a proactive and collaborative approach to every challenge.
 
 Key Areas of Expertise:
-• Global IT Talent Recruitment
+• Global IT Talent Recruitment <br/>
 • Building High-Performance Teams
 
 💻 Technical Recruitment Focus:
-• Cloud Computing
-• Cybersecurity
-• Software Development (Front-end, Back-end, Full Stack)
-• Data Science & Analytics
-• DevOps & Infrastructure
-• Network & Systems Engineering
+• Cloud Computing <br/>
+• Cybersecurity <br/>
+• Software Development (Front-end, Back-end, Full Stack) <br/>
+• Data Science & Analytics <br/>
+• DevOps & Infrastructure <br/>
+• Network & Systems Engineering <br/>
 
 - 📫 How to reach me rahulm@mindlance.com
 
