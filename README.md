@@ -9,12 +9,12 @@ Key Areas of Expertise:
 • Building High-Performance Teams
 
 💻 Technical Recruitment Focus:
-Cloud Computing
-Cybersecurity
-Software Development (Front-end, Back-end, Full Stack)
-Data Science & Analytics
-DevOps & Infrastructure
-Network & Systems Engineering
+• Cloud Computing
+• Cybersecurity
+• Software Development (Front-end, Back-end, Full Stack)
+• Data Science & Analytics
+• DevOps & Infrastructure
+• Network & Systems Engineering
 
 - 📫 How to reach me rahulm@mindlance.com
 
